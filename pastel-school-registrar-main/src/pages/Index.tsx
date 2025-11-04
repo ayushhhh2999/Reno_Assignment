@@ -1,5 +1,5 @@
 import { useState } from "react";
-import SchoolForm from "@/components/SchoolForm";
+import SchoolForm from "@/components/addSchool.jsx";
 import SuccessCard from "@/components/SuccessCard";
 import SchoolsList from "@/components/SchoolsList";
 import { Button } from "@/components/ui/button";
